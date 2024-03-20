@@ -2,7 +2,7 @@
 
 ```php
 $Skills = [
-    'Progamminglanguages' => ['Python', 'PHP', 'Javascript'],
+    'programminglanguages' => ['Python', 'PHP', 'Javascript'],
     'Frontend' => ['Html', 'Css'], 
     'Database' => ['Mysql'],
     'CMS' => ['Drupal'],
