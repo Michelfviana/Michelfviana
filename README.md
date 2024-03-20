@@ -1,5 +1,3 @@
-![Computador](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
-
 ```php
 $Skills = [
     'programminglanguages' => ['Python', 'PHP', 'Javascript'],
