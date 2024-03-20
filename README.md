@@ -1,4 +1,4 @@
-![Computador Michel](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
+![Computador](https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png)
 
 ```php
 $Skills = [
@@ -8,7 +8,7 @@ $Skills = [
     'CMS' => ['Drupal'],
     'Framework' => ['Laravel'],
     'Tools' => ['Git', 'Docker', 'Lando'],
-    'Os' => ['Linux', 'Windows']
+    'Operational systems' => ['Linux', 'Windows']
 ];
 ```
 
