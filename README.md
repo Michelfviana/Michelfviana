@@ -4,7 +4,6 @@ $Skills = [
     'Frontend' => ['Html', 'Css'], 
     'Database' => ['Mysql'],
     'CMS' => ['Drupal'],
-    'Framework' => ['Laravel'],
     'Tools' => ['Git', 'Docker', 'Lando'],
     'Operational systems' => ['Linux', 'Windows']
 ];
