@@ -3,8 +3,7 @@ $Skills = [
     'programminglanguages' => ['Python', 'PHP', 'Javascript'],
     'Frontend' => ['Html', 'Css'], 
     'Database' => ['Mysql'],
-    'CMS' => ['Drupal'],
-    'Tools' => ['Git', 'Docker', 'Lando'],
+    'Tools' => ['Git', 'Docker'],
     'Operational systems' => ['Linux', 'Windows']
 ];
 ```
