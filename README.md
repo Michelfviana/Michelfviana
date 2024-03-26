@@ -1,10 +1,10 @@
 ```php
-$Skills = [
-    'programminglanguages' => ['Python', 'PHP', 'Javascript'],
-    'Frontend' => ['Html', 'Css'], 
-    'Database' => ['Mysql'],
-    'Tools' => ['Git', 'Docker'],
-    'Operational systems' => ['Linux', 'Windows']
+$skills = [
+    'programming_languages' => ['Python', 'PHP', 'Javascript'],
+    'frontend' => ['HTML', 'CSS'], 
+    'database' => ['MySQL'],
+    'tools' => ['Git', 'Docker'],
+    'operational_systems' => ['Linux', 'Windows']
 ];
 ```
 ___
