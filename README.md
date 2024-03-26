@@ -7,6 +7,7 @@ $Skills = [
     'Operational systems' => ['Linux', 'Windows']
 ];
 ```
+___
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michelfviana/)
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contato.michel.fvc@proton.me)
