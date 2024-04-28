@@ -1,11 +1,11 @@
-```php
-$skills = [
-    'programming_languages' => ['Python', 'PHP', 'Javascript'],
-    'frontend' => ['HTML', 'CSS'], 
-    'database' => ['MySQL'],
-    'tools' => ['Git', 'Docker'],
-    'operational_systems' => ['Linux', 'Windows']
-];
+```py
+skills = {
+    'programming_languages': ['Python', 'PHP', 'Javascript'],
+    'frontend': ['HTML', 'CSS'],
+    'database': ['MySQL'],
+    'tools': ['Git', 'Docker'],
+    'operational_systems': ['Linux', 'Windows']
+}
 ```
 ___
 
