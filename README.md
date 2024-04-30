@@ -34,7 +34,10 @@
 [![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contato.michel.fvc@proton.me)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-ferreira-429b17225/)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=michelfviana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelfviana&layout=compact&langs_count=7&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=michelfviana&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5900b3&height=120&section=footer"/>
+<img src="https://github-readme-stats.vercel.app/api?username=michelfviana&show_icons=true&locale=en&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=michelfviana&theme=tokyonight"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=5900b3&height=120&section=footer"/>
