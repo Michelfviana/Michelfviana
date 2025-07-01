@@ -8,25 +8,6 @@
 
 </div>
 
-## 🎮 Developer Control Panel
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=michelfviana&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&custom_title=Michel's%20GitHub%20Analytics&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=michelfviana&theme=synthwave&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michelfviana&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Timeline" alt="Activity Graph" />
-</div>
-
 ## 🧬 Developer DNA
 
 ```python
