@@ -23,7 +23,7 @@ class MichelFerreira:
         return {
             "backend": ["Python", "PHP", "MySQL"],
             "frontend": ["JavaScript", "HTML5", "CSS3"],
-            "cms": ["Drupal", "WordPress"],
+      "cms": ["Drupal", "WordPress", "Laravel"],
             "tools": ["Docker", "Git", "Linux", "VSCode", "NeoVim"]
         }
     
@@ -55,8 +55,7 @@ print(dev.problem_solver("complex bug"))  # Output: Magic happens! ✨
 ![Responsive](https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🏗️ **CMS & Platforms**
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white&labelColor=0678BE)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B)
+![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white&labelColor=0678BE) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20)
 
 ### 🗄️ **Database Wizardry**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00758F)
@@ -70,6 +69,7 @@ print(dev.problem_solver("complex bug"))  # Output: Magic happens! ✨
 ### 💻 **Development Environment**
 ![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white&labelColor=57A143)
+![PhpStorm](https://img.shields.io/badge/PhpStorm-7C4DFF?style=for-the-badge&logo=phpstorm&logoColor=white)
 
 </div>
 
