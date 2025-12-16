@@ -82,10 +82,6 @@ print(dev.problem_solver("complex bug"))  # Output: Magic happens! ✨
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelfviana&layout=donut-vertical&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&custom_title=Mastered%20Languages" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=michelfviana&theme=synthwave&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
 ## 🌟 Skills System & Core Competencies
 
 <div align="center">
