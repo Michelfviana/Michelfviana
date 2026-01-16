@@ -76,12 +76,6 @@ print(dev.problem_solver("complex bug"))  # Output: Magic happens! ✨
 
 </div>
 
-## 📊 Advanced Metrics & Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michelfviana&layout=donut-vertical&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&custom_title=Mastered%20Languages" alt="Top Languages" />
-</div>
-
 ## 🌟 Skills System & Core Competencies
 
 <div align="center">
