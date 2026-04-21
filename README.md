@@ -1,243 +1,405 @@
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Michel%20Ferreira&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=🚀%20Full%20Stack%20Developer%20%7C%20Creating%20impactful%20solutions&descAlignY=55&descSize=18" />
-</h1>
+<div align="center">
+<marquee behavior="scroll" direction="left" scrollamount="4">
+&nbsp;&nbsp; 🔴 LIVE &nbsp;·&nbsp; Laravel ↑ &nbsp;·&nbsp; Python ↑ &nbsp;·&nbsp; AWS ↑ &nbsp;·&nbsp; Docker ↑ &nbsp;·&nbsp; Linux ↑ &nbsp;·&nbsp; SQL ↑ &nbsp;·&nbsp; JavaScript ↑ &nbsp;·&nbsp; Node.js ↑ &nbsp;·&nbsp; REST APIs ↑ &nbsp;·&nbsp; Git ↑ &nbsp;·&nbsp; Scrum ↑ &nbsp;·&nbsp; Clean Code ↑ &nbsp;·&nbsp; Datadog ↑ &nbsp;·&nbsp; Cybersecurity ↑ &nbsp;·&nbsp; Blockchain ↑ &nbsp;·&nbsp; PHP ↑ &nbsp;·&nbsp; Laravel ↑ &nbsp;·&nbsp; Python ↑ &nbsp;·&nbsp; AWS ↑ &nbsp;·&nbsp; Docker ↑ &nbsp;&nbsp; 🟢 OPEN TO WORK &nbsp;&nbsp;
+</marquee>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,0a1628,0D1117&height=100&section=header" width="100%" alt="header"/>
+
+<br/>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2000&pause=1500&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=💻+Transforming+coffee+into+code+since+2020;🌟+CMS+%26+Web+Solutions+Expert;⚡+Performance+%2B+Clean+Code+%3D+My+Passion;🚀+Always+seeking+the+next+innovation)](https://git.io/typing-svg)
+
+# `[ MF ] _`
+### `< Software Engineer />`
+
+*Focused on operational excellence and complex problem solving.*
+*Currently at **[Total Express](https://www.linkedin.com/in/michel-ferreira-429b17225/)** — Brazil's largest private logistics operation.*
+
+📍 São Paulo, Brazil &nbsp;·&nbsp; 💻 Remote
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2000&pause=1500&color=00FF87&center=true&vCenter=true&width=700&height=45&lines=PHP+(Laravel)+%7C+Python+%7C+AWS+%7C+Linux+Hardening;Building+scalable+APIs+%26+microservices+at+Total+Express;Clean+Code+·+DevSecOps+·+Fiscal+%26+Tax+Engineering;Fast+learner.+Pragmatic+executor.+Always+shipping.)](https://git.io/typing-svg)
 
 </div>
 
-## 🧬 Developer DNA
+<br/>
 
-```python
-class MichelFerreira:
-    def __init__(self):
-        self.name = "Michel Ferreira"
-        self.role = "Full Stack Developer"
-        self.location = "Brazil 🇧🇷"
-        self.philosophy = "Clean Code + Performance = Digital Art"
-        
-    @property
-    def main_stack(self):
-        return {
-            "backend": ["Python", "PHP", "MySQL"],
-            "frontend": ["JavaScript", "HTML5", "CSS3"],
-      "cms": ["Drupal", "WordPress", "Laravel"],
-            "tools": ["Docker", "Git", "Linux", "VSCode", "NeoVim"]
-        }
-    
-    def problem_solver(self, challenge):
-        """Transforming complex problems into elegant solutions"""
-        return f"Analyzing {challenge}... Solution implemented! ✨"
-    
-    def continuous_learning(self):
-        return "Always absorbing knowledge 🧠"
-
-# Instantiating the magic
-dev = MichelFerreira()
-print(dev.problem_solver("complex bug"))  # Output: Magic happens! ✨
+```json
+{
+  "name"           : "Michel Ferreira",
+  "role"           : "Software Engineer",
+  "location"       : "São Paulo, BR",
+  "current"        : "Total Express  (via Leega)",
+  "stack"          : ["PHP", "Laravel", "Python", "AWS", "Docker", "Linux"],
+  "status"         : "open_to_work",
+  "experience_yrs" : 4,
+  "english"        : "fluent",
+  "education"      : "B.Sc. Computer Science — EEP (2027)"
+}
 ```
 
-## 🚀 Tech Arsenal v2.0
+---
 
 <div align="center">
+<sup>OVERVIEW</sup>
 
-### 🎯 **Core Technologies**
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue&labelColor=306998)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=8892BF)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E)
-![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=00599C)
+## About Me
 
-### 🎨 **Frontend Mastery**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1572B6)
-![Responsive](https://img.shields.io/badge/Responsive_Design-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🏗️ **CMS & Platforms**
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white&labelColor=0678BE) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=21759B) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=FF2D20)
-
-### 🗄️ **Database Wizardry**
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white&labelColor=00758F)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=003545)
-
-### ⚙️ **DevOps & Tools**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032) 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=FCC624) 
-![DBeaver](https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-
-### 💻 **Development Environment**
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white&labelColor=57A143)
-![PhpStorm](https://img.shields.io/badge/PhpStorm-7C4DFF?style=for-the-badge&logo=phpstorm&logoColor=white)
-
-</div>
-
-## 🌟 Skills System & Core Competencies
-
-<div align="center">
+<br/>
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td align="center" width="25%"><h2><code>4+</code></h2><sub><b>YRS EXPERIENCE</b></sub></td>
+<td align="center" width="25%"><h2><code>5</code></h2><sub><b>COMPANIES</b></sub></td>
+<td align="center" width="25%"><h2><code>8+</code></h2><sub><b>PROJECTS</b></sub></td>
+<td align="center" width="25%"><h2><code>40+</code></h2><sub><b>CERTIFICATIONS</b></sub></td>
+</tr>
+</table>
 
-### 🎯 **Methodologies**
-- **Agile/Scrum Master** - Agile facilitation
-- **Kanban Flow** - Optimized workflow
-- **DevOps Practices** - Continuous integration
+<br/>
 
-### 💬 **Communication**
-- **Portuguese** - Native 🇧🇷
-- **English** - Advanced 🇺🇸
-- **Technical Writing** - Documentation expert
+<table>
+<tr>
+<td width="33%" align="left">
+
+**`01`** ⚡ &nbsp;**High Performance & Adaptability**
+
+Accelerated learning curve with a pragmatic approach — maintaining technical precision and focus even in high-pressure scenarios. Logical reasoning to deliver clean, scalable, resilient solutions.
 
 </td>
-<td width="50%" align="center">
+<td width="33%" align="left">
 
-### 🧠 **Problem Solving**
-- **Analytical Thinking** - Data-driven decisions
-- **Creative Solutions** - Innovative approaches
-- **Debug Mastery** - Expert troubleshooter
+**`02`** 🏗️ &nbsp;**Technical & Business Mastery**
 
-### 🤝 **Leadership & Collaboration**
-- **Team Player** - Collaborative mindset
-- **Knowledge Sharing** - Mentoring others
-- **Code Review** - Quality assurance
+Solid experience in PHP (Laravel) and Python ecosystems, backed by infrastructure expertise (AWS, Docker, Linux Hardening). Differentiated by understanding business rules and engineering interstate fiscal flows (XML/CST).
+
+</td>
+<td width="33%" align="left">
+
+**`03`** 💬 &nbsp;**Strategic Communication**
+
+Ability to bridge the technical and business worlds. Communication that translates complex requirements for stakeholders and facilitates alignment between multidisciplinary teams with agility and clarity.
 
 </td>
 </tr>
 </table>
 
-</div>
-
-## 🎯 Growth Roadmap 2025
-
-<div align="center">
-
-<table>
-<tr>
-<th width="33%" align="center">🚀 <strong>In Progress</strong></th>
-<th width="33%" align="center">🎯 <strong>Next Steps</strong></th>
-<th width="33%" align="center">💡 <strong>Experimenting</strong></th>
-</tr>
-<tr>
-<td align="center">
-<ul>
-<li>Microservices Architecture</li>
-<li>Cloud Computing (AWS)</li>
-<li>Performance Optimization</li>
-<li>Security Best Practices</li>
-</ul>
-</td>
-<td align="center">
-<ul>
-<li>Machine Learning & AI</li>
-<li>TypeScript Mastery</li>
-<li>React/Vue.js</li>
-<li>GraphQL APIs</li>
-</ul>
-</td>
-<td align="center">
-<ul>
-<li>Web3 & Blockchain</li>
-<li>Edge Computing</li>
-<li>IoT Development</li>
-<li>Rust Programming</li>
-</ul>
-</td>
-</tr>
-</table>
-
-</div>
-
-## 🎮 Achievements & Special Badges
-
-<div align="center">
-  
-![](https://img.shields.io/badge/🏆-Problem_Solver-FFD700?style=for-the-badge&logoColor=black)
-![](https://img.shields.io/badge/🎯-Clean_Code_Advocate-00FF00?style=for-the-badge&logoColor=black)
-![](https://img.shields.io/badge/⚡-Performance_Optimizer-FF6B6B?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/🌟-Innovation_Driver-9B59B6?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/🤝-Team_Player-3498DB?style=for-the-badge&logoColor=white)
-
-</div>
-
-## 💼 Current Status & Availability
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Status-🟢_Available_for_New_Projects-success?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Focus-🎯_Full_Stack_Development-blue?style=for-the-badge" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Learning-🚀_Cloud_&_AI_Technologies-orange?style=for-the-badge" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Open_to-💼_Freelance_&_Remote_Work-green?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/michel-ferreira-429b17225/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/michelfviana/)
-[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=8B89CC)](mailto:michel.fvc@proton.me)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551971032254)
-
-</div>
-
-## 🎨 Creative Moment
-
-<div align="center">
-  
-```ascii
-    ┌─────────────────────────────────────────────────┐
-    │  🎯 "Code is like humor.                        │
-    │     When you have to explain it,               │
-    │     it's bad."                                  │
-    │                                                 │
-    │  💡 Transforming ideas into digital reality,   │
-    │     one commit at a time! ✨                   │
-    └─────────────────────────────────────────────────┘
-```
-
-</div>
-
-## 📈 Visitor Analytics & Interactive Elements
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=michelfviana&color=00D4FF&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/michelfviana?color=00D4FF&style=for-the-badge&logo=github&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/michelfviana?color=FFD700&style=for-the-badge&logo=github&label=Total+Stars)
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michelfviana&bg_color=0D1117&color=00D4FF&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&height=300" alt="Contribution Graph" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" />
 </div>
 
 ---
 
 <div align="center">
-  <h3>🚀 Always seeking the next innovation | 💡 Creating the future, one line of code at a time</h3>
-  
-  **⭐ If you made it this far, consider starring my projects! ⭐**
-</div>  
+<sup>TECH STACK</sup>
+
+## Technical Skills
+
+<br/>
+
+<table>
+<tr>
+
+<td align="left" valign="top" width="25%">
+
+**⚙️ BACKEND**
+
+![PHP](https://img.shields.io/badge/PHP-00FF87?style=flat-square&logo=php&logoColor=000000&labelColor=00FF87)
+![Laravel](https://img.shields.io/badge/Laravel-00FF87?style=flat-square&logo=laravel&logoColor=000000&labelColor=00FF87)
+![Python](https://img.shields.io/badge/Python-00FF87?style=flat-square&logo=python&logoColor=000000&labelColor=00FF87)
+![Node.js](https://img.shields.io/badge/Node.js-00D4FF?style=flat-square&logo=nodedotjs&logoColor=000000&labelColor=00D4FF)
+![Express.js](https://img.shields.io/badge/Express.js-00D4FF?style=flat-square&logo=express&logoColor=000000&labelColor=00D4FF)
+![REST APIs](https://img.shields.io/badge/REST_APIs-00FF87?style=flat-square&logo=fastapi&logoColor=000000&labelColor=00FF87)
+![SOAP](https://img.shields.io/badge/SOAP-00D4FF?style=flat-square&logoColor=000000&labelColor=00D4FF)
+
+</td>
+
+<td align="left" valign="top" width="25%">
+
+**🎨 FRONTEND**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-00FF87?style=flat-square&logo=javascript&logoColor=000000&labelColor=00FF87)
+![HTML5](https://img.shields.io/badge/HTML5-00FF87?style=flat-square&logo=html5&logoColor=000000&labelColor=00FF87)
+![CSS3](https://img.shields.io/badge/CSS3-00FF87?style=flat-square&logo=css3&logoColor=000000&labelColor=00FF87)
+![TypeScript](https://img.shields.io/badge/TypeScript-FFA500?style=flat-square&logo=typescript&logoColor=000000&labelColor=FFA500)
+
+</td>
+
+<td align="left" valign="top" width="25%">
+
+**☁️ CLOUD & DEVOPS**
+
+![AWS](https://img.shields.io/badge/AWS-00FF87?style=flat-square&logo=amazonaws&logoColor=000000&labelColor=00FF87)
+![Docker](https://img.shields.io/badge/Docker-00FF87?style=flat-square&logo=docker&logoColor=000000&labelColor=00FF87)
+![Linux](https://img.shields.io/badge/Linux-00FF87?style=flat-square&logo=linux&logoColor=000000&labelColor=00FF87)
+![Git](https://img.shields.io/badge/Git-00FF87?style=flat-square&logo=git&logoColor=000000&labelColor=00FF87)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-00D4FF?style=flat-square&logo=kubernetes&logoColor=000000&labelColor=00D4FF)
+![CI/CD](https://img.shields.io/badge/CI/CD-00D4FF?style=flat-square&logo=githubactions&logoColor=000000&labelColor=00D4FF)
+![Datadog](https://img.shields.io/badge/Datadog-00D4FF?style=flat-square&logo=datadog&logoColor=000000&labelColor=00D4FF)
+![Lando](https://img.shields.io/badge/Lando-00D4FF?style=flat-square&logoColor=000000&labelColor=00D4FF)
+
+</td>
+
+<td align="left" valign="top" width="25%">
+
+**🗄️ DATABASES**
+
+![SQL](https://img.shields.io/badge/SQL-00FF87?style=flat-square&logo=mysql&logoColor=000000&labelColor=00FF87)
+![MySQL](https://img.shields.io/badge/MySQL-00FF87?style=flat-square&logo=mysql&logoColor=000000&labelColor=00FF87)
+![MariaDB](https://img.shields.io/badge/MariaDB-00D4FF?style=flat-square&logo=mariadb&logoColor=000000&labelColor=00D4FF)
+![DBeaver](https://img.shields.io/badge/DBeaver-00D4FF?style=flat-square&logo=dbeaver&logoColor=000000&labelColor=00D4FF)
+
+</td>
+
+</tr>
+<tr>
+
+<td align="left" valign="top" width="25%">
+
+**🧩 CMS & PLATFORMS**
+
+![Drupal](https://img.shields.io/badge/Drupal-00FF87?style=flat-square&logo=drupal&logoColor=000000&labelColor=00FF87)
+![WordPress](https://img.shields.io/badge/WordPress-00FF87?style=flat-square&logo=wordpress&logoColor=000000&labelColor=00FF87)
+![Moodle](https://img.shields.io/badge/Moodle-00D4FF?style=flat-square&logo=moodle&logoColor=000000&labelColor=00D4FF)
+![Mautic](https://img.shields.io/badge/Mautic-00D4FF?style=flat-square&logoColor=000000&labelColor=00D4FF)
+
+</td>
+
+<td align="left" valign="top" width="25%">
+
+**🤖 DATA & AI**
+
+![OpenCV](https://img.shields.io/badge/OpenCV-00D4FF?style=flat-square&logo=opencv&logoColor=000000&labelColor=00D4FF)
+![Pandas](https://img.shields.io/badge/Pandas-00D4FF?style=flat-square&logo=pandas&logoColor=000000&labelColor=00D4FF)
+![Tkinter](https://img.shields.io/badge/Tkinter-00D4FF?style=flat-square&logo=python&logoColor=000000&labelColor=00D4FF)
+![Gemini API](https://img.shields.io/badge/Gemini_API-00D4FF?style=flat-square&logo=google&logoColor=000000&labelColor=00D4FF)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FFA500?style=flat-square&logo=scikitlearn&logoColor=000000&labelColor=FFA500)
+![PySwip/Prolog](https://img.shields.io/badge/PySwip_/_Prolog-FFA500?style=flat-square&logoColor=000000&labelColor=FFA500)
+
+</td>
+
+<td align="left" valign="top" width="25%">
+
+**🔒 SECURITY**
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00FF87?style=flat-square&logo=hackthebox&logoColor=000000&labelColor=00FF87)
+![Pentest](https://img.shields.io/badge/Pentest-00FF87?style=flat-square&logo=kalilinux&logoColor=000000&labelColor=00FF87)
+![Linux Hardening](https://img.shields.io/badge/Linux_Hardening-00FF87?style=flat-square&logo=linux&logoColor=000000&labelColor=00FF87)
+![SAST/DAST](https://img.shields.io/badge/SAST_DAST-00D4FF?style=flat-square&logoColor=000000&labelColor=00D4FF)
+![Blockchain](https://img.shields.io/badge/Blockchain-00D4FF?style=flat-square&logo=bitcoin&logoColor=000000&labelColor=00D4FF)
+
+</td>
+
+<td align="left" valign="top" width="25%">
+
+**🔄 METHODOLOGIES**
+
+![Scrum](https://img.shields.io/badge/Scrum-00FF87?style=flat-square&logoColor=000000&labelColor=00FF87)
+![Kanban](https://img.shields.io/badge/Kanban-00FF87?style=flat-square&logoColor=000000&labelColor=00FF87)
+![Agile](https://img.shields.io/badge/Agile-00FF87?style=flat-square&logoColor=000000&labelColor=00FF87)
+![Clean Code](https://img.shields.io/badge/Clean_Code-00FF87?style=flat-square&logoColor=000000&labelColor=00FF87)
+![JIRA](https://img.shields.io/badge/JIRA-00D4FF?style=flat-square&logo=jira&logoColor=000000&labelColor=00D4FF)
+![Postman](https://img.shields.io/badge/Postman-00D4FF?style=flat-square&logo=postman&logoColor=000000&labelColor=00D4FF)
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+![High](https://img.shields.io/badge/●_Core_proficiency-00FF87?style=flat-square&logoColor=000000&labelColor=00FF87)
+&nbsp;
+![Mid](https://img.shields.io/badge/●_Solid_experience-00D4FF?style=flat-square&logoColor=000000&labelColor=00D4FF)
+&nbsp;
+![Low](https://img.shields.io/badge/●_Working_knowledge-FFA500?style=flat-square&logoColor=000000&labelColor=FFA500)
+
+</div>
+
+---
+
+<div align="center">
+<sup>CAREER</sup>
+
+## Experience
+
+</div>
+
+<table>
+<tr>
+<td width="15%" align="center"><sub><b>Oct 2025 → now</b></sub></td>
+<td>
+
+**Software Engineer (Leega Consultant) — Total Express** &nbsp;·&nbsp; Remote
+
+![PHP](https://img.shields.io/badge/PHP-00FF87?style=flat-square&logo=php&logoColor=000000&labelColor=00FF87) ![Laravel](https://img.shields.io/badge/Laravel-00FF87?style=flat-square&logo=laravel&logoColor=000000&labelColor=00FF87) ![Python](https://img.shields.io/badge/Python-00FF87?style=flat-square&logo=python&logoColor=000000&labelColor=00FF87) ![AWS](https://img.shields.io/badge/AWS-00FF87?style=flat-square&logo=amazonaws&logoColor=000000&labelColor=00FF87) ![Datadog](https://img.shields.io/badge/Datadog-00D4FF?style=flat-square&logo=datadog&logoColor=000000&labelColor=00D4FF) ![Kibana](https://img.shields.io/badge/Kibana-00D4FF?style=flat-square&logo=kibana&logoColor=000000&labelColor=00D4FF)
+
+Scalable APIs & microservices for Brazil's largest private e-commerce logistics operation. Fiscal & tax flow engineering (XML/CST), high-volumetry systems, proactive monitoring.
+
+</td>
+</tr>
+<tr>
+<td width="15%" align="center"><sub><b>Nov 2023 → Oct 2025</b></sub></td>
+<td>
+
+**Full Stack Software Engineer — AgattiTech** &nbsp;·&nbsp; Remote
+
+![Drupal](https://img.shields.io/badge/Drupal-00FF87?style=flat-square&logo=drupal&logoColor=000000&labelColor=00FF87) ![WordPress](https://img.shields.io/badge/WordPress-00FF87?style=flat-square&logo=wordpress&logoColor=000000&labelColor=00FF87) ![PHP](https://img.shields.io/badge/PHP-00FF87?style=flat-square&logo=php&logoColor=000000&labelColor=00FF87) ![Docker](https://img.shields.io/badge/Docker-00FF87?style=flat-square&logo=docker&logoColor=000000&labelColor=00FF87) ![Mautic](https://img.shields.io/badge/Mautic-00D4FF?style=flat-square&logoColor=000000&labelColor=00D4FF)
+
+Architecture & modernization of complex digital ecosystems. Custom modules, REST APIs, Linux server administration, DevOps culture, Mautic marketing automation integrations.
+
+</td>
+</tr>
+<tr>
+<td width="15%" align="center"><sub><b>Jan 2023 → Jun 2023</b></sub></td>
+<td>
+
+**Full Stack Developer — Governo do Estado de Rondônia** &nbsp;·&nbsp; On-site
+
+![Laravel](https://img.shields.io/badge/Laravel-00FF87?style=flat-square&logo=laravel&logoColor=000000&labelColor=00FF87) ![Python](https://img.shields.io/badge/Python-00FF87?style=flat-square&logo=python&logoColor=000000&labelColor=00FF87) ![Docker](https://img.shields.io/badge/Docker-00FF87?style=flat-square&logo=docker&logoColor=000000&labelColor=00FF87) ![Linux](https://img.shields.io/badge/Linux-00FF87?style=flat-square&logo=linux&logoColor=000000&labelColor=00FF87)
+
+Modernization of public systems. Python automation eliminating repetitive tasks, Linux infrastructure management, Docker standardization across dev/prod environments.
+
+</td>
+</tr>
+<tr>
+<td width="15%" align="center"><sub><b>Jul 2022 → Oct 2022</b></sub></td>
+<td>
+
+**Backend Engineer — Before** &nbsp;·&nbsp; Remote
+
+![Laravel](https://img.shields.io/badge/Laravel-00FF87?style=flat-square&logo=laravel&logoColor=000000&labelColor=00FF87) ![Docker](https://img.shields.io/badge/Docker-00FF87?style=flat-square&logo=docker&logoColor=000000&labelColor=00FF87) ![Git](https://img.shields.io/badge/Git-00FF87?style=flat-square&logo=git&logoColor=000000&labelColor=00FF87) ![Scrum](https://img.shields.io/badge/Scrum-00D4FF?style=flat-square&logoColor=000000&labelColor=00D4FF)
+
+Full SDLC. Scalable REST APIs with high performance and low coupling. Rigorous Git versioning within Agile/Scrum workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+<sup>PORTFOLIO</sup>
+
+## Featured Projects
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" align="left">
+
+### 📈 CryptoWatch
+
+Real-time cryptocurrency dashboard consuming **Binance WebSocket API** — live prices, heatmap, order book, indicators & charts. Zero backend. Deployed on GitHub Pages.
+
+![HTML5](https://img.shields.io/badge/HTML5-00FF87?style=flat-square&logo=html5&logoColor=000000&labelColor=00FF87) ![CSS3](https://img.shields.io/badge/CSS3-00FF87?style=flat-square&logo=css3&logoColor=000000&labelColor=00FF87) ![JavaScript](https://img.shields.io/badge/JavaScript-00FF87?style=flat-square&logo=javascript&logoColor=000000&labelColor=00FF87) ![WebSocket](https://img.shields.io/badge/WebSocket-00D4FF?style=flat-square&logoColor=000000&labelColor=00D4FF) ![Binance API](https://img.shields.io/badge/Binance_API-00D4FF?style=flat-square&logo=binance&logoColor=000000&labelColor=00D4FF)
+
+</td>
+<td width="50%" align="left">
+
+### 🚗 PIC-1: Vehicle Checklist System
+
+Full-stack app with user auth and CRUD for vehicle inspection forms. Academic project @ EEP.
+
+![Node.js](https://img.shields.io/badge/Node.js-00D4FF?style=flat-square&logo=nodedotjs&logoColor=000000&labelColor=00D4FF) ![Express.js](https://img.shields.io/badge/Express.js-00D4FF?style=flat-square&logo=express&logoColor=000000&labelColor=00D4FF) ![Docker](https://img.shields.io/badge/Docker-00FF87?style=flat-square&logo=docker&logoColor=000000&labelColor=00FF87) ![MariaDB](https://img.shields.io/badge/MariaDB-00D4FF?style=flat-square&logo=mariadb&logoColor=000000&labelColor=00D4FF) ![JavaScript](https://img.shields.io/badge/JavaScript-00FF87?style=flat-square&logo=javascript&logoColor=000000&labelColor=00FF87)
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="left">
+
+### 🤖 Intelligent Agent
+
+AI agent for location/activity recommendations using **Prolog** inference rules + Python.
+
+![Python](https://img.shields.io/badge/Python-00FF87?style=flat-square&logo=python&logoColor=000000&labelColor=00FF87) ![SWI-Prolog](https://img.shields.io/badge/SWI--Prolog-FFA500?style=flat-square&logoColor=000000&labelColor=FFA500) ![PySwip](https://img.shields.io/badge/PySwip-FFA500?style=flat-square&logoColor=000000&labelColor=FFA500)
+
+</td>
+<td width="50%" align="left">
+
+### 🖼️ Image Processing Software v2
+
+Python GUI for image processing: grayscale, filters, brightness, contrast & geometric transforms.
+
+![Python](https://img.shields.io/badge/Python-00FF87?style=flat-square&logo=python&logoColor=000000&labelColor=00FF87) ![OpenCV](https://img.shields.io/badge/OpenCV-00D4FF?style=flat-square&logo=opencv&logoColor=000000&labelColor=00D4FF) ![Tkinter](https://img.shields.io/badge/Tkinter-00D4FF?style=flat-square&logo=python&logoColor=000000&labelColor=00D4FF) ![PIL](https://img.shields.io/badge/Pillow-00D4FF?style=flat-square&logo=python&logoColor=000000&labelColor=00D4FF)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+<sup>CREDENTIALS</sup>
+
+## Certifications & Recognition
+
+<br/>
+
+![FIAP Blockchain](https://img.shields.io/badge/FIAP_·_Blockchain_2026-00FF87?style=flat-square&logo=bitcoin&logoColor=000000&labelColor=00FF87)
+![FIAP Cybersecurity](https://img.shields.io/badge/FIAP_·_Cybersecurity_2026-00FF87?style=flat-square&logo=hackthebox&logoColor=000000&labelColor=00FF87)
+![Cambridge B1](https://img.shields.io/badge/Cambridge_·_B1_English-00D4FF?style=flat-square&logo=academia&logoColor=000000&labelColor=00D4FF)
+![Linux Udemy](https://img.shields.io/badge/Udemy_·_Linux_Master_2025-00D4FF?style=flat-square&logo=udemy&logoColor=000000&labelColor=00D4FF)
+![AWS Alura](https://img.shields.io/badge/Alura_·_AWS_Cloud-00D4FF?style=flat-square&logo=amazonaws&logoColor=000000&labelColor=00D4FF)
+![C Udemy](https://img.shields.io/badge/Udemy_·_C_Programming-00D4FF?style=flat-square&logo=c&logoColor=000000&labelColor=00D4FF)
+
+<br/>
+
+> 🥉 **3rd Place — Ideathon São Paulo | Piracicaba Edition** &nbsp;·&nbsp; Abstartups + Sebrae &nbsp;·&nbsp; Aug 2025
+>
+> 🎤 **DevPira Festival 2025** — 12h of DevSecOps, Serverless AWS & Security &nbsp;·&nbsp; Dec 2025
+
+</div>
+
+---
+
+<div align="center">
+<sup>METRICS</sup>
+
+## GitHub Stats
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=michelfviana&color=00FF87&style=flat-square&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/michelfviana?color=00D4FF&style=flat-square&logo=github&logoColor=000000&labelColor=00D4FF&label=Followers)
+![GitHub stars](https://img.shields.io/github/stars/michelfviana?color=00FF87&style=flat-square&logo=github&logoColor=000000&labelColor=00FF87&label=Total+Stars)
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michelfviana&bg_color=0D1117&color=00FF87&line=00D4FF&point=FFFFFF&area=true&area_color=00FF8720&hide_border=true&height=280" alt="Contribution Graph" />
+</div>
+
+---
+
+<div align="center">
+<sup>CONNECT</sup>
+
+## Contact
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michel-ferreira-429b17225/)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:michel.fvc@proton.me)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michelfviana/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/551971032254)
+
+<br/>
+
+```
+  ┌──────────────────────────────────────────────────────────────────┐
+  │  "The best code is the one that runs correctly in production,    │
+  │   scales without drama, and your team can maintain at 2am."      │
+  └──────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117,0a1628,0D1117&height=100&section=footer" width="100%" alt="footer"/>
+
+<div align="center">
+  <sub>⭐ If something here was useful, consider starring a project! ⭐</sub>
+</div>
