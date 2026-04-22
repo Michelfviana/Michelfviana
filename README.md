@@ -104,13 +104,13 @@ Ability to bridge the technical and business worlds. Communication that translat
 
 **⚙️ BACKEND**
 
-![PHP](https://img.shields.io/badge/PHP-00FF87?style=flat-square&logo=php&logoColor=000000&labelColor=00FF87)
-![Laravel](https://img.shields.io/badge/Laravel-00FF87?style=flat-square&logo=laravel&logoColor=000000&labelColor=00FF87)
-![Python](https://img.shields.io/badge/Python-00FF87?style=flat-square&logo=python&logoColor=000000&labelColor=00FF87)
-![Node.js](https://img.shields.io/badge/Node.js-00D4FF?style=flat-square&logo=nodedotjs&logoColor=000000&labelColor=00D4FF)
-![Express.js](https://img.shields.io/badge/Express.js-00D4FF?style=flat-square&logo=express&logoColor=000000&labelColor=00D4FF)
-![REST APIs](https://img.shields.io/badge/REST_APIs-00FF87?style=flat-square&logo=fastapi&logoColor=000000&labelColor=00FF87)
-![SOAP](https://img.shields.io/badge/SOAP-00D4FF?style=flat-square&logoColor=000000&labelColor=00D4FF)
+![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=00FF87&style=flat-square&logo=php&logoColor=000000&labelColor=00FF87)
+![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=00FF87&style=flat-square&logo=laravel&logoColor=000000&labelColor=00FF87)
+![Python](https://img.shields.io/static/v1?label=&message=Python&color=00FF87&style=flat-square&logo=python&logoColor=000000&labelColor=00FF87)
+![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=00D4FF&style=flat-square&logo=nodedotjs&logoColor=000000&labelColor=00D4FF)
+![Express.js](https://img.shields.io/static/v1?label=&message=Express.js&color=00D4FF&style=flat-square&logo=express&logoColor=000000&labelColor=00D4FF)
+![REST APIs](https://img.shields.io/static/v1?label=&message=REST+APIs&color=00FF87&style=flat-square&logo=fastapi&logoColor=000000&labelColor=00FF87)
+![SOAP](https://img.shields.io/static/v1?label=&message=SOAP&color=00D4FF&style=flat-square&labelColor=00D4FF)
 
 </td>
 
@@ -118,10 +118,10 @@ Ability to bridge the technical and business worlds. Communication that translat
 
 **🎨 FRONTEND**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-00FF87?style=flat-square&logo=javascript&logoColor=000000&labelColor=00FF87)
-![HTML5](https://img.shields.io/badge/HTML5-00FF87?style=flat-square&logo=html5&logoColor=000000&labelColor=00FF87)
-![CSS3](https://img.shields.io/badge/CSS3-00FF87?style=flat-square&logo=css3&logoColor=000000&labelColor=00FF87)
-![TypeScript](https://img.shields.io/badge/TypeScript-FFA500?style=flat-square&logo=typescript&logoColor=000000&labelColor=FFA500)
+![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=00FF87&style=flat-square&logo=javascript&logoColor=000000&labelColor=00FF87)
+![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=00FF87&style=flat-square&logo=html5&logoColor=000000&labelColor=00FF87)
+![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=00FF87&style=flat-square&logo=css3&logoColor=000000&labelColor=00FF87)
+![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=FFA500&style=flat-square&logo=typescript&logoColor=000000&labelColor=FFA500)
 
 </td>
 
@@ -129,14 +129,14 @@ Ability to bridge the technical and business worlds. Communication that translat
 
 **☁️ CLOUD & DEVOPS**
 
-![AWS](https://img.shields.io/badge/AWS-00FF87?style=flat-square&logo=amazonaws&logoColor=000000&labelColor=00FF87)
-![Docker](https://img.shields.io/badge/Docker-00FF87?style=flat-square&logo=docker&logoColor=000000&labelColor=00FF87)
-![Linux](https://img.shields.io/badge/Linux-00FF87?style=flat-square&logo=linux&logoColor=000000&labelColor=00FF87)
-![Git](https://img.shields.io/badge/Git-00FF87?style=flat-square&logo=git&logoColor=000000&labelColor=00FF87)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-00D4FF?style=flat-square&logo=kubernetes&logoColor=000000&labelColor=00D4FF)
-![CI/CD](https://img.shields.io/badge/CI/CD-00D4FF?style=flat-square&logo=githubactions&logoColor=000000&labelColor=00D4FF)
-![Datadog](https://img.shields.io/badge/Datadog-00D4FF?style=flat-square&logo=datadog&logoColor=000000&labelColor=00D4FF)
-![Lando](https://img.shields.io/badge/Lando-00D4FF?style=flat-square&logoColor=000000&labelColor=00D4FF)
+![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=00FF87&style=flat-square&logo=amazonaws&logoColor=000000&labelColor=00FF87)
+![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=00FF87&style=flat-square&logo=docker&logoColor=000000&labelColor=00FF87)
+![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=00FF87&style=flat-square&logo=linux&logoColor=000000&labelColor=00FF87)
+![Git](https://img.shields.io/static/v1?label=&message=Git&color=00FF87&style=flat-square&logo=git&logoColor=000000&labelColor=00FF87)
+![Kubernetes](https://img.shields.io/static/v1?label=&message=Kubernetes&color=00D4FF&style=flat-square&logo=kubernetes&logoColor=000000&labelColor=00D4FF)
+![CI/CD](https://img.shields.io/static/v1?label=&message=CI%2FCD&color=00D4FF&style=flat-square&logo=githubactions&logoColor=000000&labelColor=00D4FF)
+![Datadog](https://img.shields.io/static/v1?label=&message=Datadog&color=00D4FF&style=flat-square&logo=datadog&logoColor=000000&labelColor=00D4FF)
+![Lando](https://img.shields.io/static/v1?label=&message=Lando&color=00D4FF&style=flat-square&labelColor=00D4FF)
 
 </td>
 
@@ -144,10 +144,10 @@ Ability to bridge the technical and business worlds. Communication that translat
 
 **🗄️ DATABASES**
 
-![SQL](https://img.shields.io/badge/SQL-00FF87?style=flat-square&logo=mysql&logoColor=000000&labelColor=00FF87)
-![MySQL](https://img.shields.io/badge/MySQL-00FF87?style=flat-square&logo=mysql&logoColor=000000&labelColor=00FF87)
-![MariaDB](https://img.shields.io/badge/MariaDB-00D4FF?style=flat-square&logo=mariadb&logoColor=000000&labelColor=00D4FF)
-![DBeaver](https://img.shields.io/badge/DBeaver-00D4FF?style=flat-square&logo=dbeaver&logoColor=000000&labelColor=00D4FF)
+![SQL](https://img.shields.io/static/v1?label=&message=SQL&color=00FF87&style=flat-square&logo=mysql&logoColor=000000&labelColor=00FF87)
+![MySQL](https://img.shields.io/static/v1?label=&message=MySQL&color=00FF87&style=flat-square&logo=mysql&logoColor=000000&labelColor=00FF87)
+![MariaDB](https://img.shields.io/static/v1?label=&message=MariaDB&color=00D4FF&style=flat-square&logo=mariadb&logoColor=000000&labelColor=00D4FF)
+![DBeaver](https://img.shields.io/static/v1?label=&message=DBeaver&color=00D4FF&style=flat-square&logo=dbeaver&logoColor=000000&labelColor=00D4FF)
 
 </td>
 
@@ -158,10 +158,10 @@ Ability to bridge the technical and business worlds. Communication that translat
 
 **🧩 CMS & PLATFORMS**
 
-![Drupal](https://img.shields.io/badge/Drupal-00FF87?style=flat-square&logo=drupal&logoColor=000000&labelColor=00FF87)
-![WordPress](https://img.shields.io/badge/WordPress-00FF87?style=flat-square&logo=wordpress&logoColor=000000&labelColor=00FF87)
-![Moodle](https://img.shields.io/badge/Moodle-00D4FF?style=flat-square&logo=moodle&logoColor=000000&labelColor=00D4FF)
-![Mautic](https://img.shields.io/badge/Mautic-00D4FF?style=flat-square&logoColor=000000&labelColor=00D4FF)
+![Drupal](https://img.shields.io/static/v1?label=&message=Drupal&color=00FF87&style=flat-square&logo=drupal&logoColor=000000&labelColor=00FF87)
+![WordPress](https://img.shields.io/static/v1?label=&message=WordPress&color=00FF87&style=flat-square&logo=wordpress&logoColor=000000&labelColor=00FF87)
+![Moodle](https://img.shields.io/static/v1?label=&message=Moodle&color=00D4FF&style=flat-square&logo=moodle&logoColor=000000&labelColor=00D4FF)
+![Mautic](https://img.shields.io/static/v1?label=&message=Mautic&color=00D4FF&style=flat-square&labelColor=00D4FF)
 
 </td>
 
@@ -169,12 +169,12 @@ Ability to bridge the technical and business worlds. Communication that translat
 
 **🤖 DATA & AI**
 
-![OpenCV](https://img.shields.io/badge/OpenCV-00D4FF?style=flat-square&logo=opencv&logoColor=000000&labelColor=00D4FF)
-![Pandas](https://img.shields.io/badge/Pandas-00D4FF?style=flat-square&logo=pandas&logoColor=000000&labelColor=00D4FF)
-![Tkinter](https://img.shields.io/badge/Tkinter-00D4FF?style=flat-square&logo=python&logoColor=000000&labelColor=00D4FF)
-![Gemini API](https://img.shields.io/badge/Gemini_API-00D4FF?style=flat-square&logo=google&logoColor=000000&labelColor=00D4FF)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-FFA500?style=flat-square&logo=scikitlearn&logoColor=000000&labelColor=FFA500)
-![PySwip/Prolog](https://img.shields.io/badge/PySwip_/_Prolog-FFA500?style=flat-square&logoColor=000000&labelColor=FFA500)
+![OpenCV](https://img.shields.io/static/v1?label=&message=OpenCV&color=00D4FF&style=flat-square&logo=opencv&logoColor=000000&labelColor=00D4FF)
+![Pandas](https://img.shields.io/static/v1?label=&message=Pandas&color=00D4FF&style=flat-square&logo=pandas&logoColor=000000&labelColor=00D4FF)
+![Tkinter](https://img.shields.io/static/v1?label=&message=Tkinter&color=00D4FF&style=flat-square&logo=python&logoColor=000000&labelColor=00D4FF)
+![Gemini API](https://img.shields.io/static/v1?label=&message=Gemini+API&color=00D4FF&style=flat-square&logo=google&logoColor=000000&labelColor=00D4FF)
+![Scikit-learn](https://img.shields.io/static/v1?label=&message=Scikit-learn&color=FFA500&style=flat-square&logo=scikitlearn&logoColor=000000&labelColor=FFA500)
+![PySwip/Prolog](https://img.shields.io/static/v1?label=&message=PySwip+%2F+Prolog&color=FFA500&style=flat-square&labelColor=FFA500)
 
 </td>
 
@@ -182,11 +182,11 @@ Ability to bridge the technical and business worlds. Communication that translat
 
 **🔒 SECURITY**
 
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00FF87?style=flat-square&logo=hackthebox&logoColor=000000&labelColor=00FF87)
-![Pentest](https://img.shields.io/badge/Pentest-00FF87?style=flat-square&logo=kalilinux&logoColor=000000&labelColor=00FF87)
-![Linux Hardening](https://img.shields.io/badge/Linux_Hardening-00FF87?style=flat-square&logo=linux&logoColor=000000&labelColor=00FF87)
-![SAST/DAST](https://img.shields.io/badge/SAST_DAST-00D4FF?style=flat-square&logoColor=000000&labelColor=00D4FF)
-![Blockchain](https://img.shields.io/badge/Blockchain-00D4FF?style=flat-square&logo=bitcoin&logoColor=000000&labelColor=00D4FF)
+![Cybersecurity](https://img.shields.io/static/v1?label=&message=Cybersecurity&color=00FF87&style=flat-square&logo=hackthebox&logoColor=000000&labelColor=00FF87)
+![Pentest](https://img.shields.io/static/v1?label=&message=Pentest&color=00FF87&style=flat-square&logo=kalilinux&logoColor=000000&labelColor=00FF87)
+![Linux Hardening](https://img.shields.io/static/v1?label=&message=Linux+Hardening&color=00FF87&style=flat-square&logo=linux&logoColor=000000&labelColor=00FF87)
+![SAST/DAST](https://img.shields.io/static/v1?label=&message=SAST+%2F+DAST&color=00D4FF&style=flat-square&labelColor=00D4FF)
+![Blockchain](https://img.shields.io/static/v1?label=&message=Blockchain&color=00D4FF&style=flat-square&logo=bitcoin&logoColor=000000&labelColor=00D4FF)
 
 </td>
 
@@ -194,12 +194,12 @@ Ability to bridge the technical and business worlds. Communication that translat
 
 **🔄 METHODOLOGIES**
 
-![Scrum](https://img.shields.io/badge/Scrum-00FF87?style=flat-square&logoColor=000000&labelColor=00FF87)
-![Kanban](https://img.shields.io/badge/Kanban-00FF87?style=flat-square&logoColor=000000&labelColor=00FF87)
-![Agile](https://img.shields.io/badge/Agile-00FF87?style=flat-square&logoColor=000000&labelColor=00FF87)
-![Clean Code](https://img.shields.io/badge/Clean_Code-00FF87?style=flat-square&logoColor=000000&labelColor=00FF87)
-![JIRA](https://img.shields.io/badge/JIRA-00D4FF?style=flat-square&logo=jira&logoColor=000000&labelColor=00D4FF)
-![Postman](https://img.shields.io/badge/Postman-00D4FF?style=flat-square&logo=postman&logoColor=000000&labelColor=00D4FF)
+![Scrum](https://img.shields.io/static/v1?label=&message=Scrum&color=00FF87&style=flat-square&labelColor=00FF87)
+![Kanban](https://img.shields.io/static/v1?label=&message=Kanban&color=00FF87&style=flat-square&labelColor=00FF87)
+![Agile](https://img.shields.io/static/v1?label=&message=Agile&color=00FF87&style=flat-square&labelColor=00FF87)
+![Clean Code](https://img.shields.io/static/v1?label=&message=Clean+Code&color=00FF87&style=flat-square&labelColor=00FF87)
+![JIRA](https://img.shields.io/static/v1?label=&message=JIRA&color=00D4FF&style=flat-square&logo=jira&logoColor=000000&labelColor=00D4FF)
+![Postman](https://img.shields.io/static/v1?label=&message=Postman&color=00D4FF&style=flat-square&logo=postman&logoColor=000000&labelColor=00D4FF)
 
 </td>
 
@@ -208,11 +208,11 @@ Ability to bridge the technical and business worlds. Communication that translat
 
 <br/>
 
-![High](https://img.shields.io/badge/●_Core_proficiency-00FF87?style=flat-square&logoColor=000000&labelColor=00FF87)
+![High](https://img.shields.io/static/v1?label=&message=●+Core+proficiency&color=00FF87&style=flat-square&labelColor=00FF87)
 &nbsp;
-![Mid](https://img.shields.io/badge/●_Solid_experience-00D4FF?style=flat-square&logoColor=000000&labelColor=00D4FF)
+![Mid](https://img.shields.io/static/v1?label=&message=●+Solid+experience&color=00D4FF&style=flat-square&labelColor=00D4FF)
 &nbsp;
-![Low](https://img.shields.io/badge/●_Working_knowledge-FFA500?style=flat-square&logoColor=000000&labelColor=FFA500)
+![Low](https://img.shields.io/static/v1?label=&message=●+Working+knowledge&color=FFA500&style=flat-square&labelColor=FFA500)
 
 </div>
 
@@ -232,7 +232,7 @@ Ability to bridge the technical and business worlds. Communication that translat
 
 **Software Engineer (Leega Consultant) — Total Express** &nbsp;·&nbsp; Remote
 
-![PHP](https://img.shields.io/badge/PHP-00FF87?style=flat-square&logo=php&logoColor=000000&labelColor=00FF87) ![Laravel](https://img.shields.io/badge/Laravel-00FF87?style=flat-square&logo=laravel&logoColor=000000&labelColor=00FF87) ![Python](https://img.shields.io/badge/Python-00FF87?style=flat-square&logo=python&logoColor=000000&labelColor=00FF87) ![AWS](https://img.shields.io/badge/AWS-00FF87?style=flat-square&logo=amazonaws&logoColor=000000&labelColor=00FF87) ![Datadog](https://img.shields.io/badge/Datadog-00D4FF?style=flat-square&logo=datadog&logoColor=000000&labelColor=00D4FF) ![Kibana](https://img.shields.io/badge/Kibana-00D4FF?style=flat-square&logo=kibana&logoColor=000000&labelColor=00D4FF)
+![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=00FF87&style=flat-square&logo=php&logoColor=000000&labelColor=00FF87) ![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=00FF87&style=flat-square&logo=laravel&logoColor=000000&labelColor=00FF87) ![Python](https://img.shields.io/static/v1?label=&message=Python&color=00FF87&style=flat-square&logo=python&logoColor=000000&labelColor=00FF87) ![AWS](https://img.shields.io/static/v1?label=&message=AWS&color=00FF87&style=flat-square&logo=amazonaws&logoColor=000000&labelColor=00FF87) ![Datadog](https://img.shields.io/static/v1?label=&message=Datadog&color=00D4FF&style=flat-square&logo=datadog&logoColor=000000&labelColor=00D4FF) ![Kibana](https://img.shields.io/static/v1?label=&message=Kibana&color=00D4FF&style=flat-square&logo=kibana&logoColor=000000&labelColor=00D4FF)
 
 Scalable APIs & microservices for Brazil's largest private e-commerce logistics operation. Fiscal & tax flow engineering (XML/CST), high-volumetry systems, proactive monitoring.
 
@@ -244,7 +244,7 @@ Scalable APIs & microservices for Brazil's largest private e-commerce logistics 
 
 **Full Stack Software Engineer — AgattiTech** &nbsp;·&nbsp; Remote
 
-![Drupal](https://img.shields.io/badge/Drupal-00FF87?style=flat-square&logo=drupal&logoColor=000000&labelColor=00FF87) ![WordPress](https://img.shields.io/badge/WordPress-00FF87?style=flat-square&logo=wordpress&logoColor=000000&labelColor=00FF87) ![PHP](https://img.shields.io/badge/PHP-00FF87?style=flat-square&logo=php&logoColor=000000&labelColor=00FF87) ![Docker](https://img.shields.io/badge/Docker-00FF87?style=flat-square&logo=docker&logoColor=000000&labelColor=00FF87) ![Mautic](https://img.shields.io/badge/Mautic-00D4FF?style=flat-square&logoColor=000000&labelColor=00D4FF)
+![Drupal](https://img.shields.io/static/v1?label=&message=Drupal&color=00FF87&style=flat-square&logo=drupal&logoColor=000000&labelColor=00FF87) ![WordPress](https://img.shields.io/static/v1?label=&message=WordPress&color=00FF87&style=flat-square&logo=wordpress&logoColor=000000&labelColor=00FF87) ![PHP](https://img.shields.io/static/v1?label=&message=PHP&color=00FF87&style=flat-square&logo=php&logoColor=000000&labelColor=00FF87) ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=00FF87&style=flat-square&logo=docker&logoColor=000000&labelColor=00FF87) ![Mautic](https://img.shields.io/static/v1?label=&message=Mautic&color=00D4FF&style=flat-square&labelColor=00D4FF)
 
 Architecture & modernization of complex digital ecosystems. Custom modules, REST APIs, Linux server administration, DevOps culture, Mautic marketing automation integrations.
 
@@ -256,7 +256,7 @@ Architecture & modernization of complex digital ecosystems. Custom modules, REST
 
 **Full Stack Developer — Governo do Estado de Rondônia** &nbsp;·&nbsp; On-site
 
-![Laravel](https://img.shields.io/badge/Laravel-00FF87?style=flat-square&logo=laravel&logoColor=000000&labelColor=00FF87) ![Python](https://img.shields.io/badge/Python-00FF87?style=flat-square&logo=python&logoColor=000000&labelColor=00FF87) ![Docker](https://img.shields.io/badge/Docker-00FF87?style=flat-square&logo=docker&logoColor=000000&labelColor=00FF87) ![Linux](https://img.shields.io/badge/Linux-00FF87?style=flat-square&logo=linux&logoColor=000000&labelColor=00FF87)
+![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=00FF87&style=flat-square&logo=laravel&logoColor=000000&labelColor=00FF87) ![Python](https://img.shields.io/static/v1?label=&message=Python&color=00FF87&style=flat-square&logo=python&logoColor=000000&labelColor=00FF87) ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=00FF87&style=flat-square&logo=docker&logoColor=000000&labelColor=00FF87) ![Linux](https://img.shields.io/static/v1?label=&message=Linux&color=00FF87&style=flat-square&logo=linux&logoColor=000000&labelColor=00FF87)
 
 Modernization of public systems. Python automation eliminating repetitive tasks, Linux infrastructure management, Docker standardization across dev/prod environments.
 
@@ -268,7 +268,7 @@ Modernization of public systems. Python automation eliminating repetitive tasks,
 
 **Backend Engineer — Before** &nbsp;·&nbsp; Remote
 
-![Laravel](https://img.shields.io/badge/Laravel-00FF87?style=flat-square&logo=laravel&logoColor=000000&labelColor=00FF87) ![Docker](https://img.shields.io/badge/Docker-00FF87?style=flat-square&logo=docker&logoColor=000000&labelColor=00FF87) ![Git](https://img.shields.io/badge/Git-00FF87?style=flat-square&logo=git&logoColor=000000&labelColor=00FF87) ![Scrum](https://img.shields.io/badge/Scrum-00D4FF?style=flat-square&logoColor=000000&labelColor=00D4FF)
+![Laravel](https://img.shields.io/static/v1?label=&message=Laravel&color=00FF87&style=flat-square&logo=laravel&logoColor=000000&labelColor=00FF87) ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=00FF87&style=flat-square&logo=docker&logoColor=000000&labelColor=00FF87) ![Git](https://img.shields.io/static/v1?label=&message=Git&color=00FF87&style=flat-square&logo=git&logoColor=000000&labelColor=00FF87) ![Scrum](https://img.shields.io/static/v1?label=&message=Scrum&color=00D4FF&style=flat-square&labelColor=00D4FF)
 
 Full SDLC. Scalable REST APIs with high performance and low coupling. Rigorous Git versioning within Agile/Scrum workflows.
 
@@ -293,7 +293,7 @@ Full SDLC. Scalable REST APIs with high performance and low coupling. Rigorous G
 
 Real-time cryptocurrency dashboard consuming **Binance WebSocket API** — live prices, heatmap, order book, indicators & charts. Zero backend. Deployed on GitHub Pages.
 
-![HTML5](https://img.shields.io/badge/HTML5-00FF87?style=flat-square&logo=html5&logoColor=000000&labelColor=00FF87) ![CSS3](https://img.shields.io/badge/CSS3-00FF87?style=flat-square&logo=css3&logoColor=000000&labelColor=00FF87) ![JavaScript](https://img.shields.io/badge/JavaScript-00FF87?style=flat-square&logo=javascript&logoColor=000000&labelColor=00FF87) ![WebSocket](https://img.shields.io/badge/WebSocket-00D4FF?style=flat-square&logoColor=000000&labelColor=00D4FF) ![Binance API](https://img.shields.io/badge/Binance_API-00D4FF?style=flat-square&logo=binance&logoColor=000000&labelColor=00D4FF)
+![HTML5](https://img.shields.io/static/v1?label=&message=HTML5&color=00FF87&style=flat-square&logo=html5&logoColor=000000&labelColor=00FF87) ![CSS3](https://img.shields.io/static/v1?label=&message=CSS3&color=00FF87&style=flat-square&logo=css3&logoColor=000000&labelColor=00FF87) ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=00FF87&style=flat-square&logo=javascript&logoColor=000000&labelColor=00FF87) ![WebSocket](https://img.shields.io/static/v1?label=&message=WebSocket&color=00D4FF&style=flat-square&labelColor=00D4FF) ![Binance API](https://img.shields.io/static/v1?label=&message=Binance+API&color=00D4FF&style=flat-square&logo=binance&logoColor=000000&labelColor=00D4FF)
 
 </td>
 <td width="50%" align="left">
@@ -302,7 +302,7 @@ Real-time cryptocurrency dashboard consuming **Binance WebSocket API** — live 
 
 Full-stack app with user auth and CRUD for vehicle inspection forms. Academic project @ EEP.
 
-![Node.js](https://img.shields.io/badge/Node.js-00D4FF?style=flat-square&logo=nodedotjs&logoColor=000000&labelColor=00D4FF) ![Express.js](https://img.shields.io/badge/Express.js-00D4FF?style=flat-square&logo=express&logoColor=000000&labelColor=00D4FF) ![Docker](https://img.shields.io/badge/Docker-00FF87?style=flat-square&logo=docker&logoColor=000000&labelColor=00FF87) ![MariaDB](https://img.shields.io/badge/MariaDB-00D4FF?style=flat-square&logo=mariadb&logoColor=000000&labelColor=00D4FF) ![JavaScript](https://img.shields.io/badge/JavaScript-00FF87?style=flat-square&logo=javascript&logoColor=000000&labelColor=00FF87)
+![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=00D4FF&style=flat-square&logo=nodedotjs&logoColor=000000&labelColor=00D4FF) ![Express.js](https://img.shields.io/static/v1?label=&message=Express.js&color=00D4FF&style=flat-square&logo=express&logoColor=000000&labelColor=00D4FF) ![Docker](https://img.shields.io/static/v1?label=&message=Docker&color=00FF87&style=flat-square&logo=docker&logoColor=000000&labelColor=00FF87) ![MariaDB](https://img.shields.io/static/v1?label=&message=MariaDB&color=00D4FF&style=flat-square&logo=mariadb&logoColor=000000&labelColor=00D4FF) ![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=00FF87&style=flat-square&logo=javascript&logoColor=000000&labelColor=00FF87)
 
 </td>
 </tr>
@@ -313,7 +313,7 @@ Full-stack app with user auth and CRUD for vehicle inspection forms. Academic pr
 
 AI agent for location/activity recommendations using **Prolog** inference rules + Python.
 
-![Python](https://img.shields.io/badge/Python-00FF87?style=flat-square&logo=python&logoColor=000000&labelColor=00FF87) ![SWI-Prolog](https://img.shields.io/badge/SWI--Prolog-FFA500?style=flat-square&logoColor=000000&labelColor=FFA500) ![PySwip](https://img.shields.io/badge/PySwip-FFA500?style=flat-square&logoColor=000000&labelColor=FFA500)
+![Python](https://img.shields.io/static/v1?label=&message=Python&color=00FF87&style=flat-square&logo=python&logoColor=000000&labelColor=00FF87) ![SWI-Prolog](https://img.shields.io/static/v1?label=&message=SWI-Prolog&color=FFA500&style=flat-square&labelColor=FFA500) ![PySwip](https://img.shields.io/static/v1?label=&message=PySwip&color=FFA500&style=flat-square&labelColor=FFA500)
 
 </td>
 <td width="50%" align="left">
@@ -322,7 +322,7 @@ AI agent for location/activity recommendations using **Prolog** inference rules 
 
 Python GUI for image processing: grayscale, filters, brightness, contrast & geometric transforms.
 
-![Python](https://img.shields.io/badge/Python-00FF87?style=flat-square&logo=python&logoColor=000000&labelColor=00FF87) ![OpenCV](https://img.shields.io/badge/OpenCV-00D4FF?style=flat-square&logo=opencv&logoColor=000000&labelColor=00D4FF) ![Tkinter](https://img.shields.io/badge/Tkinter-00D4FF?style=flat-square&logo=python&logoColor=000000&labelColor=00D4FF) ![PIL](https://img.shields.io/badge/Pillow-00D4FF?style=flat-square&logo=python&logoColor=000000&labelColor=00D4FF)
+![Python](https://img.shields.io/static/v1?label=&message=Python&color=00FF87&style=flat-square&logo=python&logoColor=000000&labelColor=00FF87) ![OpenCV](https://img.shields.io/static/v1?label=&message=OpenCV&color=00D4FF&style=flat-square&logo=opencv&logoColor=000000&labelColor=00D4FF) ![Tkinter](https://img.shields.io/static/v1?label=&message=Tkinter&color=00D4FF&style=flat-square&logo=python&logoColor=000000&labelColor=00D4FF) ![Pillow](https://img.shields.io/static/v1?label=&message=Pillow&color=00D4FF&style=flat-square&logo=python&logoColor=000000&labelColor=00D4FF)
 
 </td>
 </tr>
@@ -339,12 +339,12 @@ Python GUI for image processing: grayscale, filters, brightness, contrast & geom
 
 <br/>
 
-![FIAP Blockchain](https://img.shields.io/badge/FIAP_·_Blockchain_2026-00FF87?style=flat-square&logo=bitcoin&logoColor=000000&labelColor=00FF87)
-![FIAP Cybersecurity](https://img.shields.io/badge/FIAP_·_Cybersecurity_2026-00FF87?style=flat-square&logo=hackthebox&logoColor=000000&labelColor=00FF87)
-![Cambridge B1](https://img.shields.io/badge/Cambridge_·_B1_English-00D4FF?style=flat-square&logo=academia&logoColor=000000&labelColor=00D4FF)
-![Linux Udemy](https://img.shields.io/badge/Udemy_·_Linux_Master_2025-00D4FF?style=flat-square&logo=udemy&logoColor=000000&labelColor=00D4FF)
-![AWS Alura](https://img.shields.io/badge/Alura_·_AWS_Cloud-00D4FF?style=flat-square&logo=amazonaws&logoColor=000000&labelColor=00D4FF)
-![C Udemy](https://img.shields.io/badge/Udemy_·_C_Programming-00D4FF?style=flat-square&logo=c&logoColor=000000&labelColor=00D4FF)
+![FIAP Blockchain](https://img.shields.io/static/v1?label=&message=FIAP+%C2%B7+Blockchain+2026&color=00FF87&style=flat-square&logo=bitcoin&logoColor=000000&labelColor=00FF87)
+![FIAP Cybersecurity](https://img.shields.io/static/v1?label=&message=FIAP+%C2%B7+Cybersecurity+2026&color=00FF87&style=flat-square&logo=hackthebox&logoColor=000000&labelColor=00FF87)
+![Cambridge B1](https://img.shields.io/static/v1?label=&message=Cambridge+%C2%B7+B1+English&color=00D4FF&style=flat-square&logoColor=000000&labelColor=00D4FF)
+![Linux Udemy](https://img.shields.io/static/v1?label=&message=Udemy+%C2%B7+Linux+Master+2025&color=00D4FF&style=flat-square&logo=udemy&logoColor=000000&labelColor=00D4FF)
+![AWS Alura](https://img.shields.io/static/v1?label=&message=Alura+%C2%B7+AWS+Cloud&color=00D4FF&style=flat-square&logo=amazonaws&logoColor=000000&labelColor=00D4FF)
+![C Udemy](https://img.shields.io/static/v1?label=&message=Udemy+%C2%B7+C+Programming&color=00D4FF&style=flat-square&logo=c&logoColor=000000&labelColor=00D4FF)
 
 <br/>
 
@@ -365,7 +365,7 @@ Python GUI for image processing: grayscale, filters, brightness, contrast & geom
 
 ![Profile Views](https://komarev.com/ghpvc/?username=michelfviana&color=00FF87&style=flat-square&label=Profile+Views)
 ![GitHub followers](https://img.shields.io/github/followers/michelfviana?color=00D4FF&style=flat-square&logo=github&logoColor=000000&labelColor=00D4FF&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/michelfviana?color=00FF87&style=flat-square&logo=github&logoColor=000000&labelColor=00FF87&label=Total+Stars)
+![GitHub stars](https://img.shields.io/github/stars/michelfviana?color=00FF87&style=flat-square&logo=github&logoColor=000000&labelColor=00FF87&label=Stars)
 
 </div>
 
